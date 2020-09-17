@@ -40,7 +40,7 @@
     "@loadable/babel-plugin": "^5.12.0",
     "@loadable/component": "^5.12.0",
     "@loadable/webpack-plugin": "^5.12.0",
-    "@now/node": "^1.6.1",
+    "@now/node": "^1.8.0",
     "@philpl/buble": "^0.19.7",
     "babel-preset-gatsby": "^0.2.29",
     "carbon-components": "^10.13.0",
