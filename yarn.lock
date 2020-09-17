@@ -4461,10 +4461,19 @@ carbon-components@10.5.0:
     lodash.debounce "^4.0.8"
     warning "^3.0.0"
 
-carbon-components@^10.11.2, carbon-components@^10.13.0:
+carbon-components@^10.11.2:
   version "10.13.0"
   resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-10.13.0.tgz#1129972c3d16b129d8245cd8264b3f045d6dd974"
   integrity sha512-BVwmNkt63N9xthoOAFvR+5hpPN/4CWs2a/D2iZHWu8lbFsAskfPnrFbA+74vA6xqLkediw6Tww4GfoxAmBtaKw==
+  dependencies:
+    flatpickr "4.6.1"
+    lodash.debounce "^4.0.8"
+    warning "^3.0.0"
+
+carbon-components@^10.18.0:
+  version "10.20.0"
+  resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-10.20.0.tgz#3a927ad4f566c5dc263d32c257269c74a3ab23cc"
+  integrity sha512-MysxXg4/DpDt9GJPV3zmxi9X6HyGxr7DyROvVjf4SCyYrBqTeLOoajd3sbPhKxPjDdRIyqEb2roLq5DbbtazLg==
   dependencies:
     flatpickr "4.6.1"
     lodash.debounce "^4.0.8"
