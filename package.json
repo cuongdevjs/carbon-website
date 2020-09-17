@@ -30,7 +30,7 @@
     "/node_modules/*"
   ],
   "dependencies": {
-    "@carbon/charts": "^0.28.1",
+    "@carbon/charts": "^0.36.0",
     "@carbon/charts-react": "^0.28.1",
     "@carbon/elements": "^10.13.0",
     "@carbon/icons": "^10.12.0",
