@@ -30,8 +30,8 @@
     "/node_modules/*"
   ],
   "dependencies": {
-    "@carbon/charts": "^0.28.1",
-    "@carbon/charts-react": "^0.28.1",
+    "@carbon/charts": "^0.41.66",
+    "@carbon/charts-react": "^0.41.0",
     "@carbon/elements": "^10.13.0",
     "@carbon/icons": "^10.12.0",
     "@carbon/icons-react": "^10.12.0",
@@ -60,7 +60,7 @@
     "gatsby-plugin-sitemap": "^2.2.30",
     "gatsby-theme-carbon": "^1.24.1",
     "html-loader": "^0.5.5",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "markdown-it": "^9.0.1",
     "markdown-loader": "^5.0.0",
     "nanoid": "^2.1.11",
